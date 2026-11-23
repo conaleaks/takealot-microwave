@@ -1,0 +1,17 @@
+{
+  "name": "takealot-microwave",
+  "version": "1.0.0",
+  "description": "Takealot South Africa - Samsung 40L Mirror Finish Solo & Grill Microwave Oven",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "takealot",
+    "microwave",
+    "samsung",
+    "ecommerce"
+  ],
+  "author": "Takealot Online",
+  "license": "ISC"
+}

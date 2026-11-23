@@ -1,0 +1,24 @@
+{
+  "TAK-40-781920": {
+    "order_id": "TAK-40-781920",
+    "tracking_code": "TAK-40-781920",
+    "courier": "Takealot Fast Delivery Team",
+    "waybill": "WB-ZAF-928103",
+    "status": "in_transit",
+    "status_text": "Out for Delivery",
+    "status_step": 3,
+    "customer_name": "Sipho Dlamini",
+    "customer_email": "sipho.dlamini@gmail.com",
+    "gateway_email": "buyer_13c1836830@gmail.com",
+    "customer_phone": "+27 82 555 1234",
+    "delivery_address": "45 Kloof Street, Gardens, Cape Town, 8001",
+    "product_title": "Samsung 40L Mirror Finish Solo & Grill Microwave Oven (MG402MADXBB)",
+    "product_image": "https://iili.io/o2u4Z6b.jpg",
+    "screen_size": "40L",
+    "quantity": 1,
+    "amount": 799,
+    "currency": "ZAR",
+    "created_at": "23 Nov 2026",
+    "estimated_delivery": "Tomorrow, 7am - 7pm"
+  }
+}
